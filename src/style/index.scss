@@ -50,7 +50,8 @@
   }
   h1,
   h2,
-  h3 {
+  h3,
+  h4 {
     display: block;
     margin: 10px 0;
     text-align: center;
@@ -66,6 +67,9 @@
   }
   h3 {
     font-size: 12px;
+  }
+  h4 {
+    font-weight: bold;
   }
   ul {
     position: absolute;
